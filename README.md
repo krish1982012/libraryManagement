@@ -58,4 +58,8 @@ If Admin wants to see detailed information of any students the Admin can click o
 ---------- LOGOUT ----------
 On clicking the logout button the Admin is logged out. Admin has to fill his credention again if he wants to login in the system.
 
+---------- DATA BASE SNAPSHOT ---------
+
+![dbpic](https://user-images.githubusercontent.com/48582528/154654870-37cb1642-90cf-4774-9abc-d401a6e13ae0.PNG)
+
 
